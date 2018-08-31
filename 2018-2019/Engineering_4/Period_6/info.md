@@ -7,3 +7,5 @@ Name | Username | Fun Fact
 Jack T. | [Tim-Jackins](https://github.com/Tim-Jackins) | I know how to play [Space Oddity](https://www.youtube.com/watch?v=iYYRH4apXDo) on Ukelele.
 Jonah N. | [jnewman59](https://github.com/jnewman59) | I made ice cream with a power drill at mathcamp.
 Ben L. | [blepsch57](https://github.com/blepsch57) | I own a miniature crossbow.
+Amara G. | [agreen09](https://github.com/agreen09) | I'm bad at thinking of fun facts.
+Barrett C. | [bcrussin](https://github.com/bcrussin) | I can play Careless Whisper on the sax.
