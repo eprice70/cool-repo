@@ -6,4 +6,4 @@ Name | Username | Fun Fact
 --- | --- | ---
 Jack T. | [Tim-Jackins](https://github.com/Tim-Jackins) | I love playing disc golf!
 Alexandra F. | [afergus89](https://github.com/afergus89) | I enjoy playing field hockey
-Molly R. | [afergus89](https://github.com/afergus89) | I love to run!
+Molly R. | [mriddle54](https://github.com/mriddle54) | I like running and horseback riding!
